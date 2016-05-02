@@ -2,6 +2,7 @@
 Convenience objects when working with SQL databases
 
 Note: Should add methods for inserting rows and adding columns
+test:test
 '''
 import os
 import sqlite3
